@@ -136,7 +136,7 @@ body::after {
 	height: 100%;
 	border: 2px solid transparent;
 	transform-origin: center;
-	animation: prismRotate 3s linear infinite;
+	animation: prismRotate 2s linear infinite;
 }
 
 .prism-face:nth-child(1) {
