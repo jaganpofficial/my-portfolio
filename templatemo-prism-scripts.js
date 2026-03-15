@@ -15,7 +15,7 @@ https://templatemo.com/tm-600-prism-flux
             {
                 id: 1,
                 title: 'Debongoshoes - VKC',
-                description: 'Advanced AI system with deep learning capabilities for predictive analytics and pattern recognition.',
+                description: 'Modern Shopify store selling stylish, comfortable footwear for everyday lifestyle.',
                 image: 'images/debongo.png',
                 tech: ['Shopify Store', 'Custom Build', 'Liquid'],
                 url: 'https://www.debongoshoes.com/'
@@ -23,7 +23,7 @@ https://templatemo.com/tm-600-prism-flux
             {
                 id: 2,
                 title: 'Bellaloungewear',
-                description: 'Next-generation cloud infrastructure leveraging quantum computing for unprecedented processing power.',
+                description: 'Online clothing store featuring premium nighties, kaftans, and women’s loungewear.',
                 image: 'images/bella.png',
                 tech: ['Shopify Store', 'Pre build Theme', 'Custom Edits'],
                 url: 'https://www.bellaloungewear.com/'
@@ -31,7 +31,7 @@ https://templatemo.com/tm-600-prism-flux
             {
                 id: 3,
                 title: 'AirflexIndia',
-                description: 'Secure decentralized storage solution using advanced encryption and distributed ledger technology.',
+                description: 'Online store offering nasal strips designed to improve breathing efficiency.',
                 image: 'images/airflex.png',
                 tech: ['Shopify Store', 'Custom Build', 'Liquid'],
                 url: 'https://airflexindia.com/'
@@ -39,7 +39,7 @@ https://templatemo.com/tm-600-prism-flux
             {
                 id: 4,
                 title: 'Reprex',
-                description: 'Military-grade cybersecurity framework with real-time threat detection and automated response.',
+                description: 'Premium interior hardware store featuring door fittings and metal furniture.',
                 image: 'images/reprex.png',
                 tech: ['Shopify Theme', 'Pre Build Theme', 'custom Edits'],
                 url: 'https://reprexglobal.com/'
@@ -47,7 +47,7 @@ https://templatemo.com/tm-600-prism-flux
             {
                 id: 5,
                 title: 'Hues Republic',
-                description: 'Big data processing platform capable of analyzing petabytes of information in real-time.',
+                description: 'Fashion ecommerce platform selling premium t-shirts, and streetwear apparel.',
                 image: 'images/hues.png',
                 tech: ['Shopify Store', 'Custom Build', 'Liquid'],
                 url: 'https://huesrepublic.com'
@@ -55,7 +55,7 @@ https://templatemo.com/tm-600-prism-flux
             {
                 id: 6,
                 title: 'Portfolio',
-                description: 'Augmented reality system for immersive data visualization and interactive experiences.',
+                description: 'Personal Webflow portfolio website showcasing professional projects and technical expertise.',
                 image: 'images/portfolio.png',
                 tech: ['Webflow', 'Customized', 'JS,CSS,HTML'],
                 url: 'https://jagan-dev.webflow.io/'
