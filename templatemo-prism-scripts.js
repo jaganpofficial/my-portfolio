@@ -23,7 +23,7 @@ https://templatemo.com/tm-600-prism-flux
             {
                 id: 2,
                 title: 'Bellaloungewear',
-                description: 'Online clothing store featuring premium nighties, kaftans, and women’s loungewear.',
+                description: 'Online clothing store featuring premium nighties,and women’s loungewear.',
                 image: 'images/bella.png',
                 tech: ['Shopify Store', 'Pre build Theme', 'Custom Edits'],
                 url: 'https://www.bellaloungewear.com/'
@@ -55,7 +55,7 @@ https://templatemo.com/tm-600-prism-flux
             {
                 id: 6,
                 title: 'Portfolio',
-                description: 'Personal Webflow portfolio website showcasing professional projects and technical expertise.',
+                description: 'Personal Webflow portfolio website.',
                 image: 'images/portfolio.png',
                 tech: ['Webflow', 'Customized', 'JS,CSS,HTML'],
                 url: 'https://jagan-dev.webflow.io/'

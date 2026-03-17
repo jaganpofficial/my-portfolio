@@ -1652,11 +1652,3 @@ a.info-item {
 }
 
 
-@media (max-width:768px){
-
-.carousel-item{
-	width:280px;
-	height:420px;
-}
-
-}
