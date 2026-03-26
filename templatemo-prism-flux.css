@@ -35,6 +35,10 @@ https://templatemo.com/tm-600-prism-flux
 html {
 	scroll-behavior: smooth;
 }
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+}
 
 body {
 	font-family: 'Orbitron', 'Rajdhani', sans-serif;
