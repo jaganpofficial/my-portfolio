@@ -7,14 +7,7 @@ TemplateMo 600 Prism Flux
 https://templatemo.com/tm-600-prism-flux
 
 
-{
-                id: 1,
-                title: 'Debongoshoes - VKC',
-                description: 'Modern Shopify store selling stylish, comfortable footwear for everyday lifestyle.',
-                image: 'images/debongo.png',
-                tech: ['Shopify Store', 'Custom Build', 'Liquid'],
-                url: 'https://www.debongoshoes.com/'
-            },
+
 
 */
 
@@ -22,6 +15,14 @@ https://templatemo.com/tm-600-prism-flux
 // Portfolio data for carousel
 
         const portfolioData = [
+            {
+                id: 1,
+                title: 'Debongoshoes - VKC',
+                description: 'Modern Shopify store selling stylish, comfortable footwear for everyday lifestyle.',
+                image: 'images/debongo.png',
+                tech: ['Shopify Store', 'Custom Build', 'Liquid'],
+                url: 'https://www.debongoshoes.com/'
+            },
             
             {
                 id: 2,
