@@ -485,6 +485,7 @@ https://templatemo.com/tm-600-prism-flux
         });
 
         // Add parallax effect to hero section
+        /*
         window.addEventListener('scroll', () => {
             const scrolled = window.pageYOffset;
             const parallax = document.querySelector('.hero');
@@ -492,3 +493,4 @@ https://templatemo.com/tm-600-prism-flux
                 parallax.style.transform = `translateY(${scrolled * 0.5}px)`;
             }
         });
+        */
